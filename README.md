@@ -1,2 +1,2 @@
 # Aplikasi-Presensi-Deteksi-Wajah
-Website ini dirancang dengan bahasa pemrograman Python dan menggunakan localhost sebagai server virtualnya. Aplikasi ini menggunakan beberapa perpustakaan seperti KNN dan Haar Cascade yang berguna untuk membangun aplikasi.
+Website ini merupakan tugas akhir skripsi yang dikembangkan dengan Python dan Flask. Aplikasi ini berfungsi sebagai sistem presensi dengan deteksi wajah menggunakan KNN dan Haar Cascade. Berjalan pada localhost sebagai server virtual, aplikasi ini dapat menggunakan kamera bawaan untuk menangkap wajah pengguna. Selain itu, aplikasi ini juga menyediakan laporan kehadiran dalam bentuk file Excel.
